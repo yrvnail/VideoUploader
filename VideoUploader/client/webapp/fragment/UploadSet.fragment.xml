@@ -1,0 +1,29 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:upload="sap.m.upload" xmlns:custom="FileUploaderService.control">
+	<upload:UploadSet 
+		id="uploadSet" 
+		instantUpload="true" 
+		showIcons="true"
+		uploadEnabled="true" 
+		terminationEnabled="true"
+		fileTypes="mp4,mkv"
+		items="{path: 'appView>/items', templateShareable: true}"
+		>
+		<upload:uploader httpRequestMethod="Post">
+			<custom:CustomUploader id="CustomUploader"
+				uploadCompleted="onUploadComplete" 
+				uploadAborted="onUploadTerminated"  
+				uploadStarted="onBeforeUploadStarts"
+				uploadUrl="/upload"/>
+		</upload:uploader>
+		<upload:items>
+			<upload:UploadSetItem
+					fileName="{appView>fileName}">
+				<upload:attributes>
+						<ObjectAttribute
+							title="{i18n>fu.fragment.uploadSet.item.filePath}"
+							text="{path: 'appView>filePath', formatter: '.formatter.formatFilePath'}"/>
+				</upload:attributes>
+			</upload:UploadSetItem>
+		</upload:items>
+	</upload:UploadSet>
+</core:FragmentDefinition>

@@ -1,0 +1,6 @@
+{
+	"busy": false,
+	"delay": 0,
+	"serverUrl": "http://192.168.2.104:5000/",
+	"collectionBusy": false
+}

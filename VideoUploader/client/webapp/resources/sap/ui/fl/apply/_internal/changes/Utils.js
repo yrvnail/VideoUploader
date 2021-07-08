@@ -1,0 +1,6 @@
+/*
+ * ! OpenUI5
+ * (c) Copyright 2009-2021 SAP SE or an SAP affiliate company.
+ * Licensed under the Apache License, Version 2.0 - see LICENSE.txt.
+ */
+sap.ui.define(["sap/ui/fl/apply/_internal/changes/FlexCustomData","sap/ui/fl/registry/ChangeRegistry","sap/ui/fl/Utils"],function(F,C,a){"use strict";var U={getControlIfTemplateAffected:function(c,o,p){var m=p.modifier;var b=c.getDefinition();var d={originalControl:o};var O=b.dependentSelector&&b.dependentSelector.originalSelector;if(c.getContent().boundAggregation&&O){d.control=m.bySelector(O,p.appComponent,p.view);d.controlType=m.getControlType(d.control);d.bTemplateAffected=true;}else{d.control=o;d.controlType=m.getControlType(o);d.bTemplateAffected=false;}return d;},getChangeHandler:function(c,m,p){var l=p.modifier.getLibraryName(m.control);return C.waitForChangeHandlerRegistration(l).then(function(){var s=c.getChangeType();var L=c.getLayer();var o=C.getInstance();return o.getChangeHandler(s,m.controlType,m.control,p.modifier,L);});},checkIfDependencyIsStillValid:function(A,m,c,s){var o=a.getChangeFromChangesMap(c.mChanges,s);var b=m.bySelector(o.getSelector(),A);if(F.hasChangeApplyFinishedCustomData(b,o,m)||o.hasApplyProcessStarted()){return false;}return true;}};return U;});

@@ -1,0 +1,130 @@
+{
+	"_version": "1.1.0",
+	"resources": [
+		{
+			"name": ".theming",
+			"size": 64,
+			"theme": "base"
+		},
+		{
+			"name": "AnalyticsCloudContent.less",
+			"size": 2153,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "CalendarContent.less",
+			"size": 4423,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "Card.less",
+			"size": 253,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "CustomElementBase.less",
+			"size": 314,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "CustomElementCard.less",
+			"size": 244,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ListContent.less",
+			"size": 416,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ListContentItem.less",
+			"size": 959,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "Microchart.less",
+			"size": 627,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "MicrochartLegend.less",
+			"size": 1028,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ObjectContent.less",
+			"size": 1155,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "WebPageContent.less",
+			"size": 411,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "css_variables.css",
+			"size": 267,
+			"theme": "base"
+		},
+		{
+			"name": "css_variables.less",
+			"size": 240,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "css_variables.source.less",
+			"size": 81909,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "library-RTL.css",
+			"size": 10960,
+			"theme": "base"
+		},
+		{
+			"name": "library-parameters.json",
+			"size": 67,
+			"theme": "base"
+		},
+		{
+			"name": "library.css",
+			"size": 10959,
+			"theme": "base"
+		},
+		{
+			"name": "library.less",
+			"size": 13196,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "library.source.less",
+			"size": 615,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "library_skeleton-RTL.css",
+			"size": 11767,
+			"theme": "base"
+		},
+		{
+			"name": "library_skeleton.css",
+			"size": 11766,
+			"theme": "base"
+		}
+	]
+}

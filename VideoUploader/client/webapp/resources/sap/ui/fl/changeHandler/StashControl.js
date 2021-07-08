@@ -1,0 +1,6 @@
+/*!
+ * OpenUI5
+ * (c) Copyright 2009-2021 SAP SE or an SAP affiliate company.
+ * Licensed under the Apache License, Version 2.0 - see LICENSE.txt.
+ */
+sap.ui.define(["sap/ui/fl/LayerUtils"],function(L){"use strict";var S={};S.applyChange=function(c,C,p){var s=p.modifier.getStashed(C);var o=p.modifier.findIndexInParentAggregation(C);this.setChangeRevertData(c,s,o);if(L.isDeveloperLayer(c.getLayer())){p.modifier.setStashed(C,true);}else{p.modifier.setVisible(C,false);}};S.revertChange=function(c,C,p){var r=c.getRevertData();if(L.isDeveloperLayer(c.getLayer())){var u=p.modifier.setStashed(C,r.originalValue,p.appComponent);if(u){var U=p.modifier.findIndexInParentAggregation((u));if(U!==r.originalIndex){var P=p.modifier.getParent(u);var a=p.modifier.getParentAggregationName(u);p.modifier.removeAggregation(P,a,u);p.modifier.insertAggregation(P,a,u,r.originalIndex);}}}else{p.modifier.setVisible(C,!r.originalValue);}c.resetRevertData();};S.completeChangeContent=function(){};S.setChangeRevertData=function(c,v,o){c.setRevertData({originalValue:v,originalIndex:o});};S.getCondenserInfo=function(c){return{affectedControl:c.getSelector(),classification:sap.ui.fl.condenser.Classification.Reverse,uniqueKey:"stashed"};};return S;});

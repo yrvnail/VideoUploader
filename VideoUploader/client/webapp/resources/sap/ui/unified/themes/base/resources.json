@@ -1,0 +1,176 @@
+{
+	"_version": "1.1.0",
+	"resources": [
+		{
+			"name": ".theming",
+			"size": 64,
+			"theme": "base"
+		},
+		{
+			"name": "Calendar.less",
+			"size": 22758,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "CalendarLegend.less",
+			"size": 7698,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "CalendarRow.less",
+			"size": 18859,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ColorPicker.less",
+			"size": 20718,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ContentSwitcher.less",
+			"size": 4682,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "Currency.less",
+			"size": 1043,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "FileUploader.less",
+			"size": 5422,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "Menu.less",
+			"size": 11865,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ShellHeader.less",
+			"size": 14691,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ShellLayout.less",
+			"size": 3979,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "ShellOverlay.less",
+			"size": 9353,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "SplitContainer.less",
+			"size": 1945,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "css_variables.css",
+			"size": 18471,
+			"theme": "base"
+		},
+		{
+			"name": "css_variables.less",
+			"size": 240,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "css_variables.source.less",
+			"size": 105428,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "img-RTL/create.txt",
+			"size": 0,
+			"theme": "base"
+		},
+		{
+			"name": "img/ColorPicker/Alphaslider_BG.png",
+			"size": 2936,
+			"theme": "base"
+		},
+		{
+			"name": "img/ColorPicker/ColorBar.png",
+			"size": 559,
+			"theme": "base"
+		},
+		{
+			"name": "img/ColorPicker/GradientBox.png",
+			"size": 56106,
+			"theme": "base"
+		},
+		{
+			"name": "img/ColorPicker/PickingCursor-Default.png",
+			"size": 483,
+			"theme": "base"
+		},
+		{
+			"name": "img/ColorPicker/Swatch_BG.png",
+			"size": 954,
+			"theme": "base"
+		},
+		{
+			"name": "img/ColorPicker/Unified_Swatch_BG.png",
+			"size": 1064,
+			"theme": "base"
+		},
+		{
+			"name": "img/create.txt",
+			"size": 0,
+			"theme": "base"
+		},
+		{
+			"name": "library-RTL.css",
+			"size": 106778,
+			"theme": "base"
+		},
+		{
+			"name": "library-parameters.json",
+			"size": 7509,
+			"theme": "base"
+		},
+		{
+			"name": "library.css",
+			"size": 106693,
+			"theme": "base"
+		},
+		{
+			"name": "library.less",
+			"size": 124221,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "library.source.less",
+			"size": 609,
+			"designtime": true,
+			"theme": "base"
+		},
+		{
+			"name": "library_skeleton-RTL.css",
+			"size": 113368,
+			"theme": "base"
+		},
+		{
+			"name": "library_skeleton.css",
+			"size": 113283,
+			"theme": "base"
+		}
+	]
+}

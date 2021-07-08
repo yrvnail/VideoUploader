@@ -1,0 +1,1521 @@
+{
+	"_version": "1.1.0",
+	"resources": [
+		{
+			"name": "Component-dbg.js",
+			"size": 5706,
+			"isDebug": true
+		},
+		{
+			"name": "Component.js",
+			"size": 3030
+		},
+		{
+			"name": "blocks/IndexEntry-dbg.js",
+			"size": 760,
+			"isDebug": true
+		},
+		{
+			"name": "blocks/IndexEntry.js",
+			"size": 584
+		},
+		{
+			"name": "blocks/IndexEntry.view.xml",
+			"size": 877
+		},
+		{
+			"name": "controller/ApiDetail-dbg.controller.js",
+			"size": 25313,
+			"isDebug": true
+		},
+		{
+			"name": "controller/ApiDetail.controller.js",
+			"size": 10228
+		},
+		{
+			"name": "controller/ApiDetailIndexDeprecatedExperimental-dbg.controller.js",
+			"size": 5258,
+			"isDebug": true
+		},
+		{
+			"name": "controller/ApiDetailIndexDeprecatedExperimental.controller.js",
+			"size": 2408
+		},
+		{
+			"name": "controller/ApiDetailInitial-dbg.controller.js",
+			"size": 1332,
+			"isDebug": true
+		},
+		{
+			"name": "controller/ApiDetailInitial.controller.js",
+			"size": 641
+		},
+		{
+			"name": "controller/ApiMaster-dbg.controller.js",
+			"size": 7672,
+			"isDebug": true
+		},
+		{
+			"name": "controller/ApiMaster.controller.js",
+			"size": 4171
+		},
+		{
+			"name": "controller/App-dbg.controller.js",
+			"size": 49590,
+			"isDebug": true
+		},
+		{
+			"name": "controller/App.controller.js",
+			"size": 28179
+		},
+		{
+			"name": "controller/BaseController-dbg.js",
+			"size": 8061,
+			"isDebug": true
+		},
+		{
+			"name": "controller/BaseController.js",
+			"size": 3582
+		},
+		{
+			"name": "controller/Code-dbg.controller.js",
+			"size": 7278,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Code.controller.js",
+			"size": 4111
+		},
+		{
+			"name": "controller/Controls-dbg.controller.js",
+			"size": 1826,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Controls.controller.js",
+			"size": 866
+		},
+		{
+			"name": "controller/ControlsMaster-dbg.controller.js",
+			"size": 23533,
+			"isDebug": true
+		},
+		{
+			"name": "controller/ControlsMaster.controller.js",
+			"size": 12173
+		},
+		{
+			"name": "controller/DemoApps-dbg.controller.js",
+			"size": 11564,
+			"isDebug": true
+		},
+		{
+			"name": "controller/DemoApps.controller.js",
+			"size": 5121
+		},
+		{
+			"name": "controller/Downloads-dbg.controller.js",
+			"size": 725,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Downloads.controller.js",
+			"size": 464
+		},
+		{
+			"name": "controller/Entity-dbg.controller.js",
+			"size": 17540,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Entity.controller.js",
+			"size": 8402
+		},
+		{
+			"name": "controller/ErrorHandler-dbg.js",
+			"size": 2278,
+			"isDebug": true
+		},
+		{
+			"name": "controller/ErrorHandler.js",
+			"size": 1051
+		},
+		{
+			"name": "controller/Group-dbg.controller.js",
+			"size": 958,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Group.controller.js",
+			"size": 485
+		},
+		{
+			"name": "controller/License-dbg.controller.js",
+			"size": 986,
+			"isDebug": true
+		},
+		{
+			"name": "controller/License.controller.js",
+			"size": 758
+		},
+		{
+			"name": "controller/LiveEditor-dbg.controller.js",
+			"size": 7039,
+			"isDebug": true
+		},
+		{
+			"name": "controller/LiveEditor.controller.js",
+			"size": 3278
+		},
+		{
+			"name": "controller/MasterTreeBaseController-dbg.js",
+			"size": 4956,
+			"isDebug": true
+		},
+		{
+			"name": "controller/MasterTreeBaseController.js",
+			"size": 2223
+		},
+		{
+			"name": "controller/NotFound-dbg.controller.js",
+			"size": 323,
+			"isDebug": true
+		},
+		{
+			"name": "controller/NotFound.controller.js",
+			"size": 282
+		},
+		{
+			"name": "controller/ReleaseNotes-dbg.controller.js",
+			"size": 5828,
+			"isDebug": true
+		},
+		{
+			"name": "controller/ReleaseNotes.controller.js",
+			"size": 3245
+		},
+		{
+			"name": "controller/Sample-dbg.controller.js",
+			"size": 14379,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Sample.controller.js",
+			"size": 7228
+		},
+		{
+			"name": "controller/SampleBaseController-dbg.js",
+			"size": 8949,
+			"isDebug": true
+		},
+		{
+			"name": "controller/SampleBaseController.js",
+			"size": 5329
+		},
+		{
+			"name": "controller/SearchPage-dbg.controller.js",
+			"size": 6308,
+			"isDebug": true
+		},
+		{
+			"name": "controller/SearchPage.controller.js",
+			"size": 3712
+		},
+		{
+			"name": "controller/Sitemap-dbg.controller.js",
+			"size": 5707,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Sitemap.controller.js",
+			"size": 2984
+		},
+		{
+			"name": "controller/SubApiDetail-dbg.controller.js",
+			"size": 22946,
+			"isDebug": true
+		},
+		{
+			"name": "controller/SubApiDetail.controller.js",
+			"size": 12318
+		},
+		{
+			"name": "controller/TermsOfUse-dbg.controller.js",
+			"size": 925,
+			"isDebug": true
+		},
+		{
+			"name": "controller/TermsOfUse.controller.js",
+			"size": 668
+		},
+		{
+			"name": "controller/Tools-dbg.controller.js",
+			"size": 2535,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Tools.controller.js",
+			"size": 1379
+		},
+		{
+			"name": "controller/TopicDetail-dbg.controller.js",
+			"size": 17512,
+			"isDebug": true
+		},
+		{
+			"name": "controller/TopicDetail.controller.js",
+			"size": 9349
+		},
+		{
+			"name": "controller/TopicDetailInitial-dbg.controller.js",
+			"size": 2965,
+			"isDebug": true
+		},
+		{
+			"name": "controller/TopicDetailInitial.controller.js",
+			"size": 1515
+		},
+		{
+			"name": "controller/TopicMaster-dbg.controller.js",
+			"size": 4515,
+			"isDebug": true
+		},
+		{
+			"name": "controller/TopicMaster.controller.js",
+			"size": 2457
+		},
+		{
+			"name": "controller/Welcome-dbg.controller.js",
+			"size": 2879,
+			"isDebug": true
+		},
+		{
+			"name": "controller/Welcome.controller.js",
+			"size": 1501
+		},
+		{
+			"name": "controller/config/datatable-dbg.js",
+			"size": 734,
+			"isDebug": true
+		},
+		{
+			"name": "controller/config/datatable.js",
+			"size": 619
+		},
+		{
+			"name": "controller/util/APIInfo-dbg.js",
+			"size": 4638,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/APIInfo.js",
+			"size": 2285
+		},
+		{
+			"name": "controller/util/ConfigUtil-dbg.js",
+			"size": 2923,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/ConfigUtil.js",
+			"size": 1793
+		},
+		{
+			"name": "controller/util/ControlsInfo-dbg.js",
+			"size": 12794,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/ControlsInfo.js",
+			"size": 6112
+		},
+		{
+			"name": "controller/util/DataTable-dbg.js",
+			"size": 14343,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/DataTable.js",
+			"size": 6125
+		},
+		{
+			"name": "controller/util/DataTableHelper-dbg.js",
+			"size": 1553,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/DataTableHelper.js",
+			"size": 941
+		},
+		{
+			"name": "controller/util/DataTableUtil-dbg.js",
+			"size": 686,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/DataTableUtil.js",
+			"size": 388
+		},
+		{
+			"name": "controller/util/DocuInfo-dbg.js",
+			"size": 939,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/DocuInfo.js",
+			"size": 533
+		},
+		{
+			"name": "controller/util/EntityInfo-dbg.js",
+			"size": 2521,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/EntityInfo.js",
+			"size": 1121
+		},
+		{
+			"name": "controller/util/Highlighter-dbg.js",
+			"size": 9470,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/Highlighter.js",
+			"size": 5209
+		},
+		{
+			"name": "controller/util/IndexWorker-dbg.js",
+			"size": 17917,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/IndexWorker.js",
+			"size": 6920
+		},
+		{
+			"name": "controller/util/JSDocUtil-dbg.js",
+			"size": 2755,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/JSDocUtil.js",
+			"size": 1039
+		},
+		{
+			"name": "controller/util/ResourceDownloadUtil-dbg.js",
+			"size": 1869,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/ResourceDownloadUtil.js",
+			"size": 967
+		},
+		{
+			"name": "controller/util/ResponsiveImageMap-dbg.js",
+			"size": 3064,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/ResponsiveImageMap.js",
+			"size": 2069
+		},
+		{
+			"name": "controller/util/SearchUtil-dbg.js",
+			"size": 2023,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/SearchUtil.js",
+			"size": 971
+		},
+		{
+			"name": "controller/util/SidyBySideImageMap-dbg.js",
+			"size": 5316,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/SidyBySideImageMap.js",
+			"size": 3505
+		},
+		{
+			"name": "controller/util/ToolsInfo-dbg.js",
+			"size": 1635,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/ToolsInfo.js",
+			"size": 1234
+		},
+		{
+			"name": "controller/util/Tooltip-dbg.js",
+			"size": 951,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/Tooltip.js",
+			"size": 687
+		},
+		{
+			"name": "controller/util/TreeUtil-dbg.js",
+			"size": 1781,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/TreeUtil.js",
+			"size": 727
+		},
+		{
+			"name": "controller/util/XML2JSONUtils-dbg.js",
+			"size": 3327,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/XML2JSONUtils.js",
+			"size": 1506
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterDropDown-dbg.js",
+			"size": 3611,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterDropDown.js",
+			"size": 2220
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterDropDownRenderer-dbg.js",
+			"size": 2801,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterDropDownRenderer.js",
+			"size": 1133
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterRange-dbg.js",
+			"size": 1642,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterRange.js",
+			"size": 875
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterRangeRenderer-dbg.js",
+			"size": 1265,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/datatable/filters/DataTableFilterRangeRenderer.js",
+			"size": 412
+		},
+		{
+			"name": "controller/util/overlay/Overlay-dbg.js",
+			"size": 2534,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/overlay/Overlay.js",
+			"size": 1098
+		},
+		{
+			"name": "controller/util/overlay/shapes/Circle-dbg.js",
+			"size": 625,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/overlay/shapes/Circle.js",
+			"size": 434
+		},
+		{
+			"name": "controller/util/overlay/shapes/Polygon-dbg.js",
+			"size": 408,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/overlay/shapes/Polygon.js",
+			"size": 311
+		},
+		{
+			"name": "controller/util/overlay/shapes/Rect-dbg.js",
+			"size": 735,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/overlay/shapes/Rect.js",
+			"size": 510
+		},
+		{
+			"name": "controller/util/overlay/shapes/Shape-dbg.js",
+			"size": 1200,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/overlay/shapes/Shape.js",
+			"size": 660
+		},
+		{
+			"name": "controller/util/overlay/shapes/ShapeFactory-dbg.js",
+			"size": 807,
+			"isDebug": true
+		},
+		{
+			"name": "controller/util/overlay/shapes/ShapeFactory.js",
+			"size": 457
+		},
+		{
+			"name": "cookieSettingsDialog/Component-dbg.js",
+			"size": 4155,
+			"isDebug": true
+		},
+		{
+			"name": "cookieSettingsDialog/Component.js",
+			"size": 2668
+		},
+		{
+			"name": "cookieSettingsDialog/controller/CookieSettingsDialog-dbg.controller.js",
+			"size": 6543,
+			"isDebug": true
+		},
+		{
+			"name": "cookieSettingsDialog/controller/CookieSettingsDialog.controller.js",
+			"size": 4545
+		},
+		{
+			"name": "cookieSettingsDialog/css/style.css",
+			"size": 56
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n.properties",
+			"size": 3079,
+			"locale": "",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_ar.properties",
+			"size": 6924,
+			"locale": "ar",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_bg.properties",
+			"size": 8034,
+			"locale": "bg",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_ca.properties",
+			"size": 2244,
+			"locale": "ca",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_cs.properties",
+			"size": 2804,
+			"locale": "cs",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_cy.properties",
+			"size": 2076,
+			"locale": "cy",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_da.properties",
+			"size": 2228,
+			"locale": "da",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_de.properties",
+			"size": 2325,
+			"locale": "de",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_el.properties",
+			"size": 9047,
+			"locale": "el",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_en.properties",
+			"size": 1923,
+			"locale": "en",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_en_GB.properties",
+			"size": 1937,
+			"locale": "en_GB",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_en_US_sappsd.properties",
+			"size": 9337,
+			"locale": "en_US_sappsd",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_en_US_saprigi.properties",
+			"size": 5786,
+			"locale": "en_US_saprigi",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_en_US_saptrc.properties",
+			"size": 2238,
+			"locale": "en_US_saptrc",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_es.properties",
+			"size": 2144,
+			"locale": "es",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_es_MX.properties",
+			"size": 2190,
+			"locale": "es_MX",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_et.properties",
+			"size": 2203,
+			"locale": "et",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_fi.properties",
+			"size": 2451,
+			"locale": "fi",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_fr.properties",
+			"size": 2290,
+			"locale": "fr",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_fr_CA.properties",
+			"size": 2358,
+			"locale": "fr_CA",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_hi.properties",
+			"size": 7561,
+			"locale": "hi",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_hr.properties",
+			"size": 2239,
+			"locale": "hr",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_hu.properties",
+			"size": 2836,
+			"locale": "hu",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_id.properties",
+			"size": 2108,
+			"locale": "id",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_it.properties",
+			"size": 2110,
+			"locale": "it",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_iw.properties",
+			"size": 5515,
+			"locale": "iw",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_ja.properties",
+			"size": 4454,
+			"locale": "ja",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_kk.properties",
+			"size": 8041,
+			"locale": "kk",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_ko.properties",
+			"size": 3541,
+			"locale": "ko",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_lt.properties",
+			"size": 2397,
+			"locale": "lt",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_lv.properties",
+			"size": 2643,
+			"locale": "lv",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_ms.properties",
+			"size": 2100,
+			"locale": "ms",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_nl.properties",
+			"size": 2109,
+			"locale": "nl",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_no.properties",
+			"size": 2212,
+			"locale": "no",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_pl.properties",
+			"size": 2637,
+			"locale": "pl",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_pt.properties",
+			"size": 2294,
+			"locale": "pt",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_pt_PT.properties",
+			"size": 2282,
+			"locale": "pt_PT",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_ro.properties",
+			"size": 2696,
+			"locale": "ro",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_ru.properties",
+			"size": 7221,
+			"locale": "ru",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_sh.properties",
+			"size": 2341,
+			"locale": "sh",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_sk.properties",
+			"size": 2742,
+			"locale": "sk",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_sl.properties",
+			"size": 2267,
+			"locale": "sl",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_sv.properties",
+			"size": 2382,
+			"locale": "sv",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_th.properties",
+			"size": 7564,
+			"locale": "th",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_tr.properties",
+			"size": 2697,
+			"locale": "tr",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_uk.properties",
+			"size": 8116,
+			"locale": "uk",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_vi.properties",
+			"size": 4002,
+			"locale": "vi",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_zh_CN.properties",
+			"size": 2728,
+			"locale": "zh_CN",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/i18n/i18n_zh_TW.properties",
+			"size": 2807,
+			"locale": "zh_TW",
+			"raw": "cookieSettingsDialog/i18n/i18n.properties"
+		},
+		{
+			"name": "cookieSettingsDialog/manifest.json",
+			"size": 304
+		},
+		{
+			"name": "cookieSettingsDialog/view/CookieSettingsDialog.fragment.xml",
+			"size": 3570
+		},
+		{
+			"name": "css/stars.png",
+			"size": 163318
+		},
+		{
+			"name": "css/style.css",
+			"size": 45470
+		},
+		{
+			"name": "fonts/BusinessSuiteInAppSymbolsSmall.eot",
+			"size": 5632
+		},
+		{
+			"name": "fonts/BusinessSuiteInAppSymbolsSmall.ttf",
+			"size": 5376
+		},
+		{
+			"name": "i18n/i18n.properties",
+			"size": 1709
+		},
+		{
+			"name": "images/API_ref_M_and_L_cropped.jpg",
+			"size": 66222
+		},
+		{
+			"name": "images/API_ref_M_and_L_cropped_1.jpg",
+			"size": 140626
+		},
+		{
+			"name": "images/API_ref_S_cropped.jpg",
+			"size": 18119
+		},
+		{
+			"name": "images/API_ref_S_cropped_1.jpg",
+			"size": 72757
+		},
+		{
+			"name": "images/DemoApps_M_and_L_cropped.jpg",
+			"size": 275137
+		},
+		{
+			"name": "images/DemoApps_S_cropped.jpg",
+			"size": 84549
+		},
+		{
+			"name": "images/Docu_M_and_L_cropped.jpg",
+			"size": 57038
+		},
+		{
+			"name": "images/Docu_M_and_L_cropped_1.jpg",
+			"size": 123999
+		},
+		{
+			"name": "images/Docu_S_cropped.jpg",
+			"size": 17644
+		},
+		{
+			"name": "images/Docu_S_cropped_1.jpg",
+			"size": 35995
+		},
+		{
+			"name": "images/Evolution_demokit_illustration_single.png",
+			"size": 26245
+		},
+		{
+			"name": "images/Explored_M_and_L_cropped.jpg",
+			"size": 74316
+		},
+		{
+			"name": "images/Explored_M_and_L_cropped_1.jpg",
+			"size": 232970
+		},
+		{
+			"name": "images/Explored_S_cropped.jpg",
+			"size": 23307
+		},
+		{
+			"name": "images/Explored_S_cropped_1.jpg",
+			"size": 70611
+		},
+		{
+			"name": "images/Fiori_design_examples.png",
+			"size": 79367
+		},
+		{
+			"name": "images/Fiori_guidelines_image.png",
+			"size": 68003
+		},
+		{
+			"name": "images/Home_M_and_L_cropped.jpg",
+			"size": 80298
+		},
+		{
+			"name": "images/Home_M_and_L_cropped_1.jpg",
+			"size": 120365
+		},
+		{
+			"name": "images/Home_S_cropped.jpg",
+			"size": 32047
+		},
+		{
+			"name": "images/Home_S_cropped_1.jpg",
+			"size": 60741
+		},
+		{
+			"name": "images/Logo_B_OpenUI5_H.png",
+			"size": 32508
+		},
+		{
+			"name": "images/Logo_B_SAPUI5_H.png",
+			"size": 31599
+		},
+		{
+			"name": "images/Theme_Designer_Image_350x197.jpg",
+			"size": 21202
+		},
+		{
+			"name": "images/Tools_M_and_L_cropped.jpg",
+			"size": 272500
+		},
+		{
+			"name": "images/Tools_S_cropped.jpg",
+			"size": 61882
+		},
+		{
+			"name": "images/WebIDE_logo_white_32x61.png",
+			"size": 2950
+		},
+		{
+			"name": "images/build_illu_astronaut_320x235.png",
+			"size": 29732
+		},
+		{
+			"name": "images/build_logo__white_26x80.png",
+			"size": 3049
+		},
+		{
+			"name": "images/demoAppsTeaser.png",
+			"size": 159362
+		},
+		{
+			"name": "images/link-external.png",
+			"size": 230
+		},
+		{
+			"name": "images/link-sap.png",
+			"size": 312
+		},
+		{
+			"name": "images/logo_sap.png",
+			"size": 5665
+		},
+		{
+			"name": "images/logo_stackoverflow.png",
+			"size": 971
+		},
+		{
+			"name": "images/logo_twitter.png",
+			"size": 784
+		},
+		{
+			"name": "images/logo_ui5.png",
+			"size": 2463
+		},
+		{
+			"name": "images/logo_youtube.png",
+			"size": 832
+		},
+		{
+			"name": "images/tools/BusinessApplicationStudio.jpg",
+			"size": 267890
+		},
+		{
+			"name": "images/tools/CardExplorer.jpg",
+			"size": 30462
+		},
+		{
+			"name": "images/tools/IconExplorer.jpg",
+			"size": 71860
+		},
+		{
+			"name": "images/tools/SupportAssistant.jpg",
+			"size": 128320
+		},
+		{
+			"name": "images/tools/ThemeDesigner.jpg",
+			"size": 182238
+		},
+		{
+			"name": "images/tools/ThemeParameterToolbox.jpg",
+			"size": 47491
+		},
+		{
+			"name": "images/tools/UI5EvoTooling.jpg",
+			"size": 42694
+		},
+		{
+			"name": "images/tools/UI5Inspector.jpg",
+			"size": 184844
+		},
+		{
+			"name": "images/tools/UI5WebComponents.jpg",
+			"size": 116679
+		},
+		{
+			"name": "legal_agreement_with_privacy.html",
+			"size": 3079
+		},
+		{
+			"name": "manifest.json",
+			"size": 9822
+		},
+		{
+			"name": "model/LiveEditorData.json",
+			"size": 1652
+		},
+		{
+			"name": "model/formatter-dbg.js",
+			"size": 8380,
+			"isDebug": true
+		},
+		{
+			"name": "model/formatter.js",
+			"size": 2845
+		},
+		{
+			"name": "model/libraryData-dbg.js",
+			"size": 6012,
+			"isDebug": true
+		},
+		{
+			"name": "model/libraryData.js",
+			"size": 1800
+		},
+		{
+			"name": "model/messagesData.json",
+			"size": 186
+		},
+		{
+			"name": "model/models-dbg.js",
+			"size": 438,
+			"isDebug": true
+		},
+		{
+			"name": "model/models.js",
+			"size": 341
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/css/buttons.jqueryui.css",
+			"size": 5221
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/buttons.colVis-dbg.js",
+			"size": 5205,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/buttons.colVis.js",
+			"size": 2985
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/buttons.html5-dbg.js",
+			"size": 42958,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/buttons.html5.js",
+			"size": 25565
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/buttons.jqueryui-dbg.js",
+			"size": 1417,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/buttons.jqueryui.js",
+			"size": 1053
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/dataTables.buttons-dbg.js",
+			"size": 44369,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/DataTables/Buttons-1.4.0/js/dataTables.buttons.js",
+			"size": 18840
+		},
+		{
+			"name": "thirdparty/DataTables/DataTables-1.10.15/css/dataTables.jqueryui.css",
+			"size": 16531
+		},
+		{
+			"name": "thirdparty/DataTables/DataTables-1.10.15/js/dataTables.jqueryui-dbg.js",
+			"size": 4486,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/DataTables/DataTables-1.10.15/js/dataTables.jqueryui.js",
+			"size": 2576
+		},
+		{
+			"name": "thirdparty/DataTables/DataTables-1.10.15/js/jquery.dataTables-dbg.js",
+			"size": 453954,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/DataTables/DataTables-1.10.15/js/jquery.dataTables.js",
+			"size": 90907
+		},
+		{
+			"name": "thirdparty/elasticlunr-dbg.js",
+			"size": 18051,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/elasticlunr.js",
+			"size": 18052
+		},
+		{
+			"name": "thirdparty/esprima-dbg.js",
+			"size": 122129,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/esprima.js",
+			"size": 50939
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-css-dbg.js",
+			"size": 6197,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-css.js",
+			"size": 1686
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-feature-dbg.js",
+			"size": 1679,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-feature.js",
+			"size": 926
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-properties-dbg.js",
+			"size": 1079,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-properties.js",
+			"size": 748
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-text-dbg.js",
+			"size": 308,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/google-code-prettify/lang-text.js",
+			"size": 254
+		},
+		{
+			"name": "thirdparty/google-code-prettify/prettify-dbg.js",
+			"size": 64981,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/google-code-prettify/prettify.css",
+			"size": 11499
+		},
+		{
+			"name": "thirdparty/google-code-prettify/prettify.js",
+			"size": 18006
+		},
+		{
+			"name": "thirdparty/google-code-prettify/run-prettify-dbg.js",
+			"size": 553,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/google-code-prettify/run-prettify.js",
+			"size": 411
+		},
+		{
+			"name": "thirdparty/google-code-prettify/run_prettify-dbg.js",
+			"size": 16682,
+			"isDebug": true
+		},
+		{
+			"name": "thirdparty/google-code-prettify/run_prettify.js",
+			"size": 16649
+		},
+		{
+			"name": "tmpl/index.html.tmpl",
+			"size": 681
+		},
+		{
+			"name": "tmpl/index.js.tmpl",
+			"size": 564
+		},
+		{
+			"name": "tmpl/indexevo.html.tmpl",
+			"size": 852
+		},
+		{
+			"name": "tmpl/package.json.tmpl",
+			"size": 277
+		},
+		{
+			"name": "tmpl/ui5.yaml.tmpl",
+			"size": 125
+		},
+		{
+			"name": "util/DocumentationRouter-dbg.js",
+			"size": 19950,
+			"isDebug": true
+		},
+		{
+			"name": "util/DocumentationRouter.js",
+			"size": 8806
+		},
+		{
+			"name": "util/LiveEditorOutput-dbg.js",
+			"size": 2515,
+			"isDebug": true
+		},
+		{
+			"name": "util/LiveEditorOutput.js",
+			"size": 1031
+		},
+		{
+			"name": "util/Resources-dbg.js",
+			"size": 1158,
+			"isDebug": true
+		},
+		{
+			"name": "util/Resources.js",
+			"size": 767
+		},
+		{
+			"name": "util/ToggleFullScreenHandler-dbg.js",
+			"size": 1429,
+			"isDebug": true
+		},
+		{
+			"name": "util/ToggleFullScreenHandler.js",
+			"size": 919
+		},
+		{
+			"name": "util/liveEditorOutput.html",
+			"size": 478
+		},
+		{
+			"name": "view/AboutDialog.fragment.xml",
+			"size": 5995
+		},
+		{
+			"name": "view/ApiDetail.view.xml",
+			"size": 311
+		},
+		{
+			"name": "view/ApiDetailDeprecated.view.xml",
+			"size": 1594
+		},
+		{
+			"name": "view/ApiDetailExperimental.view.xml",
+			"size": 2612
+		},
+		{
+			"name": "view/ApiDetailInitial.view.xml",
+			"size": 8034
+		},
+		{
+			"name": "view/ApiDetailSince.view.xml",
+			"size": 963
+		},
+		{
+			"name": "view/ApiMaster.view.xml",
+			"size": 1531
+		},
+		{
+			"name": "view/App.view.xml",
+			"size": 9237
+		},
+		{
+			"name": "view/BlockLayoutCell.fragment.xml",
+			"size": 1255
+		},
+		{
+			"name": "view/BlockLayoutTeaserCell.fragment.xml",
+			"size": 1342
+		},
+		{
+			"name": "view/ChangeVersionDialog.fragment.xml",
+			"size": 1073
+		},
+		{
+			"name": "view/Code.view.xml",
+			"size": 1831
+		},
+		{
+			"name": "view/Controls.view.xml",
+			"size": 12050
+		},
+		{
+			"name": "view/ControlsMaster.view.xml",
+			"size": 1658
+		},
+		{
+			"name": "view/DemoApps.view.xml",
+			"size": 4453
+		},
+		{
+			"name": "view/Downloads.view.xml",
+			"size": 174
+		},
+		{
+			"name": "view/Empty.view.xml",
+			"size": 93
+		},
+		{
+			"name": "view/Entity.view.xml",
+			"size": 3111
+		},
+		{
+			"name": "view/FeedbackDialog.fragment.xml",
+			"size": 4123
+		},
+		{
+			"name": "view/Footer.fragment.xml",
+			"size": 1921
+		},
+		{
+			"name": "view/GlobalSearchPicker.fragment.xml",
+			"size": 1816
+		},
+		{
+			"name": "view/Group.view.xml",
+			"size": 570
+		},
+		{
+			"name": "view/LegalDisclaimerPopover.fragment.xml",
+			"size": 985
+		},
+		{
+			"name": "view/License.view.xml",
+			"size": 404
+		},
+		{
+			"name": "view/LiveEditor.view.xml",
+			"size": 2021
+		},
+		{
+			"name": "view/NotFound.view.xml",
+			"size": 365
+		},
+		{
+			"name": "view/ReleaseDialog.fragment.xml",
+			"size": 624
+		},
+		{
+			"name": "view/ReleaseNotes.view.xml",
+			"size": 1838
+		},
+		{
+			"name": "view/ReleaseNotesView.view.tmpl",
+			"size": 329
+		},
+		{
+			"name": "view/Sample.view.xml",
+			"size": 3023
+		},
+		{
+			"name": "view/SearchPage.view.xml",
+			"size": 6622
+		},
+		{
+			"name": "view/Sitemap.view.xml",
+			"size": 3397
+		},
+		{
+			"name": "view/SubApiDetail.view.xml",
+			"size": 37274
+		},
+		{
+			"name": "view/TermsOfUse.view.xml",
+			"size": 389
+		},
+		{
+			"name": "view/Tools.view.xml",
+			"size": 15016
+		},
+		{
+			"name": "view/TopicDetail.view.xml",
+			"size": 1677
+		},
+		{
+			"name": "view/TopicDetailInitial.view.xml",
+			"size": 7718
+		},
+		{
+			"name": "view/TopicMaster.view.xml",
+			"size": 1324
+		},
+		{
+			"name": "view/VersionInfo.view.xml",
+			"size": 372
+		},
+		{
+			"name": "view/Welcome.view.xml",
+			"size": 19990
+		},
+		{
+			"name": "view/appSettingsDialog.fragment.xml",
+			"size": 1845
+		},
+		{
+			"name": "view/globalSettingsDialog.fragment.xml",
+			"size": 1096
+		},
+		{
+			"name": "view/samplesInfo.fragment.xml",
+			"size": 531
+		},
+		{
+			"name": "view/viewSettingsDialog.fragment.xml",
+			"size": 2023
+		}
+	]
+}

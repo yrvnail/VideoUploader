@@ -1,0 +1,6 @@
+/*
+ * ! OpenUI5
+ * (c) Copyright 2009-2021 SAP SE or an SAP affiliate company.
+ * Licensed under the Apache License, Version 2.0 - see LICENSE.txt.
+ */
+sap.ui.define(["sap/ui/mdc/AggregationBaseDelegate"],function(A){"use strict";var C=Object.assign({},A);C.zoomIn=function(v){};C.zoomOut=function(v){};C.getZoomState=function(){};C.getInnerChartSelectionHandler=function(){};C.setLegendVisible=function(v){};C.getSorterForItem=function(m,s){};C.insertItemToInnerChart=function(m,i){};C.removeItemFromInnerChart=function(m){};C.addItem=function(p,m,P,r){};C.removeItem=function(p,m){return Promise.resolve(true);};C.initializeInnerChart=function(m){};C.createInitialChartContent=function(m){};C.getInnerChart=function(){};C.getChartTypeInfo=function(){};C.getAvailableChartTypes=function(){};C.getDrillStack=function(){};C.getSortedDimensions=function(m){};C.getDrillableItems=function(m){};C.setChartType=function(c){};C.createInnerChartContent=function(m,c){};C.rebindChart=function(m,b){};C.getInnerChartBound=function(){};C.updateBindingInfo=function(m,b){};C.setChartTooltipVisibility=function(f){};C.initPropertyHelper=function(m){return Promise.resolve(true);};C.fetchProperties=function(m){};return C;});

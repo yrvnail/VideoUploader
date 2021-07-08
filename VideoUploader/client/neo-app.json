@@ -1,0 +1,26 @@
+{
+  "welcomeFile": "/webapp/index.html",
+  "routes": [
+    {
+      "path": "/resources",
+      "target": {
+        "type": "service",
+        "name": "openui5",
+        "entryPath": "/resources",
+        "version": "1.90.1"
+      },
+      "description": "OPENUI5 Resources"
+    },
+    {
+      "path": "/test-resources",
+      "target": {
+        "type": "service",
+        "name": "openui5",
+        "entryPath": "/test-resources",
+        "version": "1.90.1"
+      },
+      "description": "OPENUI5 Test Resources"
+    }
+  ],
+  "sendWelcomeFileRedirect": true
+}
